@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cafeteria</string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="toppings">Coberturas</string>
+    <string name="quantity">Quantidade de cafés</string>
+    <string name="order">Pedir</string>
+    <string name="name" translatable="false">Nome</string>
+    <string name="whipped_cream" translatable="false">Adição de Chantily</string>
+    <string name="chocolate">Adição de Chocolate</string>
+</resources>
